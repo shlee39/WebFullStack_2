@@ -12,7 +12,7 @@
 	
 	<form action="./sub/loginTest.jsp" method="get">
 		<input type = "text" name="id">
-		<input type = "password" password="pw">
+		<input type = "password" name="pw">
 		<button>Login</button>
 	</form>
 	
